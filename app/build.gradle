@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace 'com.mt.face_sdk_3divi'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.mt.face_sdk_3divi"
         minSdk 24
-        targetSdk 32
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 
